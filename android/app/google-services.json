@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141239333348",
+    "project_id": "flash-chat-55fb6",
+    "storage_bucket": "flash-chat-55fb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141239333348:android:75f6671a27af788dab57f1",
+        "android_client_info": {
+          "package_name": "co.goutam.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141239333348-2kpg7c24dopacjog73sacdc4dhq334ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0XjlaVLQZe3SwLqVz4yGCDhuBQ2Jn5XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141239333348-2kpg7c24dopacjog73sacdc4dhq334ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
